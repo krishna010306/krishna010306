@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**krishna010306/krishna010306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Krishna Satish Zurmure  
 
-Here are some ideas to get you started:
+🎓 **Education**  
+- Diploma in **Computer Technology** – Government Polytechnic, Nagpur  
+- 2nd Year **B.Tech in Computer Technology** – Priyadarshini College of Engineering, Nagpur  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Skills & Technologies**  
+- **Programming Languages:** C, C++, Python, Java, JavaScript  
+- **Web Development:** HTML, CSS, JavaScript, Django  
+- **Databases:** SQLite, DBMS  
+- **Other Skills:** Mobile Application Development  
+
+🚀 **Projects & Achievements**  
+- 🛒 Built an **E-commerce Website** using Python, HTML, CSS, JS, Django & SQLite  
+- 📄 Published **1 Research Paper** on Diploma Final Year Project  
+
+---
+
+📌 **Connect with me**  
+- 🌐 GitHub: [krishna010306](https://github.com/krishna010306)  
+- 💼 LinkedIn: [Krishna Zurmure](https://www.linkedin.com/in/krishna-zurmure-466226281/)  
+- 🧵 Threads: [@krishnazurmure](https://www.threads.net/@krishnazurmure)  
+- 📧 Email: **krishnazurmure628@gmail.com**  
+
+---
+
+✨ *Always learning, building, and exploring new technologies.*  
